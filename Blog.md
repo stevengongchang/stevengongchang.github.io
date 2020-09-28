@@ -1,6 +1,6 @@
 ---
 layout: blog
-slug: /news
+slug: /blog
 ---
 
 <br />
