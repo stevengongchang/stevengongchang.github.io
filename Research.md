@@ -1,7 +1,7 @@
 ---
 layout: work
 title: Research
-slug: /Research
+slug: /research
 items:
   - title: My Interest 1
     image:
