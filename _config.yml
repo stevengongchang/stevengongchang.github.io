@@ -13,8 +13,10 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-    - name: Blog
+    - name: Bio
+    - name: Research
+    - name: Publications
+    - name: News
 
 footer:
   show_powered_by: true
